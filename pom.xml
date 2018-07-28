@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.drmz</groupId>
+  <artifactId>CybersourceSOTest</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>CybersourceTest</name>
+  <description>This project is to test the cybersource integration methods</description>
+  <dependencies>
+  	<dependency>
+  		<groupId>com.cybersource</groupId>
+  		<artifactId>cybersource-sdk-java</artifactId>
+  		<version>LATEST</version>
+  	</dependency>
+  </dependencies>
+</project>
